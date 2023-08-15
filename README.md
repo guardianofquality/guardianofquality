@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sobhit Sharma</h1>
-<h3 align="center">A passionate Lead Quality Assurance Engineer from India.</h3>
+<h3 align="center">A passionate Lead Quality Assurance Engineer & a Cyber Security Enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guardianofquality&label=Profile%20views&color=0e75b6&style=flat" alt="guardianofquality" /> </p>
 
@@ -13,11 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/guardianofquality](https://github.com/guardianofquality)
 
-- 💬 Ask me about **Selenium, Java, Manual testing, SQL, RESTAPI, BDD, Performance Testing etc.**
+- 💬 Ask me about **Selenium, Java, Manual testing, SQL, RESTAPI, Behavior-driven development (BDD), Performance Testing, Cyber Best Practices, AWS Certified,Maven, Gradle, SonarQube,Nexus etc.**
 
 - 📫 How to reach me **sharmasobhit9@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/sobhit-sharma-839b6755/overlay/1635536072526/single-media-viewer/?profileId=ACoAAAu9be0BzszVpetSoTWspRQHo8G4XGjy_Cs](https://www.linkedin.com/in/sobhit-sharma-839b6755/overlay/1635536072526/single-media-viewer/?profileId=ACoAAAu9be0BzszVpetSoTWspRQHo8G4XGjy_Cs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
